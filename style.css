@@ -11,7 +11,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav {
+header nav { 
   float: right;
 }
 
@@ -60,6 +60,10 @@ div.jumbotron {
   font-size: 20px;
   padding: 0 40px 0 40px;
   line-height: 40px;
+}
+
+#HOVER a{
+  text-decoration: underline;
 }
 
 footer{
