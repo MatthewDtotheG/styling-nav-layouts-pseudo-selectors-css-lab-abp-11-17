@@ -62,7 +62,7 @@ div.jumbotron {
   line-height: 40px;
 }
 
-#HOVER a{
+#HOVER a:hover{
   text-decoration: underline;
 }
 
